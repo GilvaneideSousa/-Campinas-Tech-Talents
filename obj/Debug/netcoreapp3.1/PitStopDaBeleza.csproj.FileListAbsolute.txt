@@ -1,0 +1,4 @@
+C:\Users\gilva\source\repos\PitStopDaBeleza\obj\Debug\netcoreapp3.1\PitStopDaBeleza.csprojAssemblyReference.cache
+C:\Users\gilva\source\repos\PitStopDaBeleza\obj\Debug\netcoreapp3.1\PitStopDaBeleza.AssemblyInfoInputs.cache
+C:\Users\gilva\source\repos\PitStopDaBeleza\obj\Debug\netcoreapp3.1\PitStopDaBeleza.AssemblyInfo.cs
+C:\Users\gilva\source\repos\PitStopDaBeleza\obj\Debug\netcoreapp3.1\PitStopDaBeleza.csproj.CoreCompileInputs.cache
